@@ -72,7 +72,7 @@ Python is indeed an exciting and powerful language. It has the right combination
 
 ## Python 3 versus 2
 
-For **CIS1001** *Python Fundamentals*, please ONLY install Python 3.
+For [**CSC1203** *Python Fundamentals*](https://ct.catalog.acalog.com/preview_course_nopop.php?catoid=2&coid=3915) at CT State Community College, Middlesex, please ONLY install Python 3.
 
 For details on differences between Python 2 and Python 3, see:
 
